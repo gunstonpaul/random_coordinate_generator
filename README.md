@@ -9,14 +9,14 @@ Run git clone https://github.com/gunstonpaul/random_coordinate_generator.git
 
 To install the server / API 
 
-- In the root application directory run npm install
+- in the /backEnd/ directory run npm install
 
 To start the server / API 
-- In the root application directory run npm start
+- in the /backEnd/ directory run npm start
 
 
 To install the React Front-end
-- in the /frontEnd/codechallenge/ directory run npm install
+- in the /frontEnd/ directory run npm install
 
 To To start the React Front-end
-- in the /frontEnd/codechallenge/ directory run npm start
+- in the /frontEnd/ directory run npm start
