@@ -1,0 +1,17 @@
+{
+  "name": "node-react-code-challenge",
+  "version": "1.0.0",
+  "description": "Node/React code challenge",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Paul Gunston",
+  "license": "UNLICENSED",
+  "dependencies": {
+    "express": "^4.17.3",
+    "react-mapbox-gl": "^4.8.6"
+  }
+}
